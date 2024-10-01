@@ -1,21 +1,21 @@
-# h2rac
+# hex-to-rgba-cli
 
-**h2rac** is a CLI tool that converts hex to rgba.
+**hex-to-rgba-cli** is a CLI tool that converts hex to rgba.
 
-![npm](https://img.shields.io/npm/v/h2rac)
-![license](https://img.shields.io/npm/l/h2rac)
+![npm](https://img.shields.io/npm/v/hex-to-rgba-cli)
+![license](https://img.shields.io/npm/l/hex-to-rgba-cli)
 
 ## Quick Start
 
-Get **h2rac** up and running quickly!
+Get **hex-to-rgba-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx h2rac FF816E
+    npx hex-to-rgba-cli FF816E
     ```
     or with alpha value:
     ```bash
-    npx h2rac FF816E 0.5
+    npx hex-to-rgba-cli FF816E 0.5
     ```
 2. **Done!**
 
@@ -32,7 +32,7 @@ This will convert the HEX color `FF816E` to its RGBA equivalent, and display a c
 
 ## Contributing
 
-We welcome contributions to **h2rac**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **hex-to-rgba-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 

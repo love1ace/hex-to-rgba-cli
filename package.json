@@ -1,5 +1,5 @@
 {
-  "name": "h2rac",
+  "name": "hex-to-rgba-cli",
   "version": "1.0.0",
   "description": "hex to rgba in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/h2rac.git"
+    "url": "https://github.com/love1ace/hex-to-rgba-cli.git"
   },
   "keywords": [
     "hex",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/h2rac/issues"
+    "url": "https://github.com/love1ace/hex-to-rgba-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/h2rac#readme",
+  "homepage": "https://github.com/love1ace/hex-to-rgba-cli#readme",
   "bin": {
-    "h2rac": "index.js"
+    "hex-to-rgba": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
