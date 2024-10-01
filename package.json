@@ -1,0 +1,38 @@
+{
+  "name": "h2rac",
+  "version": "1.0.0",
+  "description": "hex to rgba in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/h2rac.git"
+  },
+  "keywords": [
+    "hex",
+    "rgb",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/h2rac/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/h2rac#readme",
+  "bin": {
+    "h2rac": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
